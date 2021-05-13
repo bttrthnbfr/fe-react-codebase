@@ -9,6 +9,7 @@ This codebase created to help my when creating the client application, this code
 - NODE_ENV=production npm install or NODE_ENV=production yarn
 
 # How to run in Development Mode
+- npm run build:css
 - npm start
 
 # How to run app in Production Mode
