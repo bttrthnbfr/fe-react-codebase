@@ -20,3 +20,9 @@ This codebase created to help my when creating the client application, this code
 - first, you need to build docker image
 - docker build -t fe-react-test . 
 - docker run -p 4000:4000 fe-react-test
+
+##TODO
+- example usefull component like login, logout, signup, pagination
+- api implementation
+- how to user react query, query and mutation
+- how to create contet, maybe we need to create helper function
