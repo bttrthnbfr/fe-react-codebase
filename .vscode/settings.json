@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "*config": true,
+    "*config.*": true,
+    "public": true,
+    "scripts": true,
+    "yarn.lock": true,
+    "package-lock.json": true,
+    ".gitignore": true,
+    "src/reportWebVitals.js": true
+  }
+}
