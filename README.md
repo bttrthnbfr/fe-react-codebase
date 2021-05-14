@@ -21,7 +21,7 @@ This codebase created to help my when creating the client application, this code
 - docker build -t fe-react-test . 
 - docker run -p 4000:4000 fe-react-test
 
-##TODO
+## TODO
 - example usefull component like login, logout, signup, pagination
 - api implementation
 - how to user react query, query and mutation
