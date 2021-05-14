@@ -2,9 +2,11 @@
   "files.exclude": {
     "config": true,
     "public": true,
-    "scripts": true,
     "yarn.lock": true,
     "package-lock.json": true,
-    "src/reportWebVitals.js": true
+    "src/reportWebVitals.js": true,
+    "build": true,
+    "node_modules": true,
+    "scripts": true
   }
 }
