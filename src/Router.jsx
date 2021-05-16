@@ -6,6 +6,7 @@ import {
   Link,
 } from 'react-router-dom';
 import DashboardRouter from './pages/dashboard/Router';
+import SandBox from './pages/test/SandBox';
 
 export default function App() {
   return (
@@ -40,6 +41,9 @@ export default function App() {
           </Route>
           <Route path="/dashboard">
             <DashboardRouter />
+          </Route>
+          <Route path="/sandbox">
+            <SandBox />
           </Route>
         </Switch>
       </div>
