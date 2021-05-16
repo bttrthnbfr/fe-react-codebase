@@ -24,5 +24,7 @@ This codebase created to help my when creating the client application, this code
 ## TODO
 - example usefull component like login, logout, signup, pagination
 - api implementation
-- how to user react query, query and mutation
+- error boundaries
+- create useComponentMutation like useComponentQuery
+- how to use react query, query and mutation
 - how to create contet, maybe we need to create helper function
