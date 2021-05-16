@@ -28,3 +28,4 @@ This codebase created to help my when creating the client application, this code
 - create useComponentMutation like useComponentQuery
 - how to use react query, query and mutation
 - how to create contet, maybe we need to create helper function
+- infinite pagination
